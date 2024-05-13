@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.7.0](https://github.com/GoogleCloudPlatform/functions-framework-python/compare/v3.6.0...v3.7.0) (2024-05-13)
+
+
+### Features
+
+* Add execution id ([#320](https://github.com/GoogleCloudPlatform/functions-framework-python/issues/320)) ([662bf4c](https://github.com/GoogleCloudPlatform/functions-framework-python/commit/662bf4ced9aa52efe774662a0f0f496d3d3534fc))
+* support disabling execution id logging ([#325](https://github.com/GoogleCloudPlatform/functions-framework-python/issues/325)) ([2e7de92](https://github.com/GoogleCloudPlatform/functions-framework-python/commit/2e7de92e5f9cd83f01222eb06385d66fe0211777))
+
 ## [3.6.0](https://github.com/GoogleCloudPlatform/functions-framework-python/compare/v3.5.0...v3.6.0) (2024-04-29)
 
 
